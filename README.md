@@ -1,7 +1,7 @@
 # Luxury Client Re-engagement Agent
 > Built with n8n + Claude API (Anthropic) · Autonomous luxury retail automation
 
-**[▶ Watch the demo](#)** ← *(to add Loom link after recording)* !!
+**[▶ Watch the demo](https://www.loom.com/share/08bc20f574d6476b8b8cc74d932684af)**
 
 ---
 
